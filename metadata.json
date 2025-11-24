@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TileFee Calc V7.0 for Test",
+  "description": "A precision calculator for tile processing fees based on V7.0 logic, handling cutting, trimming, and internal beveling costs.",
+  "requestFramePermissions": []
+}
